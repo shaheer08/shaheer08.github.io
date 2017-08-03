@@ -1,6 +1,7 @@
 ###                                          Welcome to My Fab Lab World
 
-            _It's a time to learn How to Make Almost Anything_
+
+_It's a time to learn "How to Make Almost Anything!"_
 
 
 ### What is Fab lab ?
@@ -22,9 +23,11 @@ We got an idea about How to Document our Work Properly and had a session about G
 ### About Me
 _I am An Engineering Student Doing B.Tech in Electronics And Communication Engineering_.
 ### Support or Contact
-**Muhammed Shaheer C**
+**Muhammed Shaheer C**                                                                                                                        
 email:shaheerwyd@gmail.com
-Phone No:8111838406
--[_Visit My Facebook Page_](https://www.facebook.com/shaheerkbd/)
+
+Phone:8111838406
+
+[_Visit My Facebook Page_](https://www.facebook.com/shaheerkbd/)
 ![Facebook](https://user-images.githubusercontent.com/30692774/28934974-81f668b8-78a0-11e7-91bd-af9cde43d8be.jpg)
 
