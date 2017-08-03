@@ -24,8 +24,7 @@ We got an idea about How to Document our Work Properly and had a session about G
 _I am An Engineering Student Doing B.Tech in Electronics And Communication Engineering_.
 ### Support or Contact
 **Muhammed Shaheer C**                                                                                          
-email:shaheerwyd@gmail.com
-Phone:8111838406
+email:shaheerwyd@gmail.com                                                                                                 Phone:8111838406
 [![Facebook](https://user-images.githubusercontent.com/30692774/28937229-d89a9cc8-78a7-11e7-9f85-36c13c27c010.jpg)
 ](https://www.facebook.com/shaheerkbd/)
 
