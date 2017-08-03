@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[FB](https://www.facebook.com/shaheerkbd/) and ![Image](src)
+ 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+[Visit My Facebook Page](https://www.facebook.com/shaheerkbd/)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
