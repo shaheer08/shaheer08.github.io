@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[Visit My FB Page]=https://www.facebook.com/shaheerkbd
+[FB](https://www.facebook.com/shaheerkbd) and ![Image](src)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
