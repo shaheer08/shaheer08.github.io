@@ -6,8 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 ## Day 1
-_We had a great great Session About What is Fab lab and Convinced us how to Almost make anything_.
+_We had a great great Session About What is Fab lab and Convinced us how to "Make Almost Anything"_.
 ![fab lab](https://user-images.githubusercontent.com/30692774/28934103-4cb9ab5e-789d-11e7-9e01-2a1906641b1f.jpg)
+## Day 2
+We got an idea about How to Document our Work Properly and had a session about Github Page creation.
+`shaheer` text
+
+
  
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
