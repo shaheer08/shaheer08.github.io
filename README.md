@@ -30,6 +30,7 @@ _Ultimaker is a 3D printer manufacturer. Their product line includes the Ultimak
 <br>
 ## Cura
 _Cura prepares your model for 3D printing. For novices, it makes it easy to get great results. For experts, there are over 200 settings to adjust to your needs. As it’s open source, our community helps enrich it even more._
+<br>
 <img src="Design.jpg" height="196" width="316">                                                               
 <br>
 ## Nozzle
