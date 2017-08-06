@@ -21,7 +21,7 @@ _We had a great Session About What is Fab lab and Convinced us "How to Make Almo
 
 ## Day 2
 We got an idea about How to Document our Work Properly and had a session about Github Page creation.
-<img src="" height="" width="">
+<img src="facebook.jpg" height="20" width="60">
 
 ### About Me
 _I am An Engineering Student Doing B.Tech in Electronics And Communication Engineering_.
@@ -31,6 +31,7 @@ _I am An Engineering Student Doing B.Tech in Electronics And Communication Engin
 email:shaheerwyd@gmail.com
 <br>
 Phone:8111838406
+<br>
 [![Facebook](https://user-images.githubusercontent.com/30692774/28937229-d89a9cc8-78a7-11e7-9f85-36c13c27c010.jpg )
 ](https://m.facebook.com/shaheerkbd?refid=46&tsid&fref=search)
 
