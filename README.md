@@ -26,14 +26,15 @@ We got an idea about How to Document our Work Properly and had a session about G
 _Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone_
 ## Ultimaker
 _Ultimaker is a 3D printer manufacturer. Their product line includes the Ultimaker 3 family, Ultimaker 2 family and the Ultimaker Original. The company started out as an open-source printer company.3D printing, also known as additive manufacturing (AM), refers to processes used to create a three-dimensional object in which layers of material are formed under computer control to create an object.Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source such as an Additive Manufacturing File (AMF) file_
-<img src="Ultimaker.jpg" height="196" width="316">
+<img src="Ultimaker.jpg" height="316" width="196">
 <br>
 ## Cura
 _Cura prepares your model for 3D printing. For novices, it makes it easy to get great results. For experts, there are over 200 settings to adjust to your needs. As it’s open source, our community helps enrich it even more._
-<img src="Design.jpg" height="316" width="196">                                                               
+<img src="Design.jpg" height="196" width="316">                                                               
 <br>
 ## Nozzle
 _Nozzles are the last physical item in your printer to touch the filament before it becomes your 3D printed part, so it’s important to understand how they work if you want to take full advantage of the possibilities afforded by the different types_
+<br>
 <img src="nozzle.jpg" height="196" width="316">
 <br>
 ### About Me
