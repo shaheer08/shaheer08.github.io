@@ -24,10 +24,12 @@ We got an idea about How to Document our Work Properly and had a session about G
 
 ## CNC
 _Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone_
-<img src="Ultimaker.jpg" height="316" width="196">         <img src="Design.jpg" height="316" width="196">
-        3D Printer                                                       Cora Design
+<img src="Ultimaker.jpg" height="196" width="316">         <img src="Design.jpg" height="196" width="316">
 <br>
-<img src="nozzle.jpg" height="316" width="196">            <img src="Print.jpg" height="316" width="196">
+        3D Printer                                                          Cora Design
+<br>
+<img src="nozzle.jpg" height="196" width="316">            <img src="Print.jpg" height="196" width="316">
+<br>
                 Nozzle                                                   Outcome
 <br>
 
