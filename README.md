@@ -32,5 +32,5 @@ email:shaheerwyd@gmail.com
 <br>
 Phone:8111838406
 [![Facebook](https://user-images.githubusercontent.com/30692774/28937229-d89a9cc8-78a7-11e7-9f85-36c13c27c010.jpg)
-](https://www.facebook.com/?stype=lo&jlou=Afdo7TDYiJE95pwmQUddFrB7yMPZnRjI516NIjBdHUu8V_zFcahGfeH1_MD_zShWFtRpwLU3u5b7uMX_XomgawkZEBtqAwsie177eQUJ-z-Khg&smuh=52079&lh=Ac8VnDJ9PpXeA9j9)
+](https://www.facebook.com/shaheerkbd)
 
