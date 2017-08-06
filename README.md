@@ -22,6 +22,15 @@ _We had a great Session About What is Fab lab and Convinced us "How to Make Almo
 ## Day 2
 We got an idea about How to Document our Work Properly and had a session about Github Page creation.
 
+## CNC
+_Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone_
+<img src="Ultimaker.jpg" height="316" width="196">         <img src="Design.jpg" height="316" width="196">
+        3D Printer                                                       Cora Design
+<br>
+<img src="nozzle.jpg" height="316" width="196">            <img src="Print.jpg" height="316" width="196">
+                Nozzle                                                   Outcome
+<br>
+
 
 ### About Me
 _I am An Engineering Student Doing B.Tech in Electronics And Communication Engineering_.
