@@ -5,7 +5,7 @@ The second day of the course was about getting along with GitHub and detailed pa
 
 Daily Assignments No: 02
 
-<br>
+
 1.Develope a desccriptive page in GitHub
 <br>
 2.Upload the daily progress on the class
