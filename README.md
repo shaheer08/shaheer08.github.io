@@ -21,7 +21,7 @@ _We had a great Session About What is Fab lab and Convinced us "How to Make Almo
 
 ## Day 2
 We got an idea about How to Document our Work Properly and had a session about Github Page creation.
-## [Test](https://shaheer08.github.io/test)
+
 
 
 ### CNC
