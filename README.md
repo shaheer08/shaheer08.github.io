@@ -14,29 +14,29 @@ _Neil A. Gershenfeld (born 1959 or 1960) is an American professor at MIT and the
 
 ### What Do You mean By Code ?
 _Code, a rule for converting a piece of information into another form or representation_.
-# Course Progress
-## [Day 1](https://shaheer08.github.io/Day-1)
+##Course Progress
+### [Day 1](https://shaheer08.github.io/Day-1)
 <br>
-## [ Day 2](https://shaheer08.github.io/Day-2)
+### [ Day 2](https://shaheer08.github.io/Day-2)
 <br>
-## [Day 3](https://shaheer08.github.io/Day-3)
+### [Day 3](https://shaheer08.github.io/Day-3)
 <br>
-## Day 4
+### Day 4
 <br>
-## Day 5
+### Day 5
 <br>
-## Day 6
+### Day 6
 <br>
-## Day 7
+### Day 7
 <br>
 
-### CNC
+## CNC
 _Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone_
-## Ultimaker
+### Ultimaker
 _Ultimaker is a 3D printer manufacturer. Their product line includes the Ultimaker 3 family, Ultimaker 2 family and the Ultimaker Original. The company started out as an open-source printer company.3D printing, also known as additive manufacturing (AM), refers to processes used to create a three-dimensional object in which layers of material are formed under computer control to create an object.Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source such as an Additive Manufacturing File (AMF) file_
 <img src="Ultimaker.jpg" height="316" width="196">
 <br>
-## Cura
+### Cura
 _Cura prepares your model for 3D printing. For novices, it makes it easy to get great results. For experts, there are over 200 settings to adjust to your needs. As it’s open source, our community helps enrich it even more._
 <br>
 <img src="Design.jpg" height="196" width="316">                                                               
