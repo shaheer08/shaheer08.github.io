@@ -18,13 +18,10 @@ _Code, a rule for converting a piece of information into another form or represe
 #### Syllabus
 ### Day 1
 - [Indroduction To Fablab](https://shaheer08.github.io/Day-1)
-<br>
 ### Day 2
 - [Github Pages and Documentation](https://shaheer08.github.io/Day-2)
-<br>
 ### Day 3
 - [3D Printing](https://shaheer08.github.io/Day-3)
-<br>
 ### Day 4
 <br>
 ### Day 5
