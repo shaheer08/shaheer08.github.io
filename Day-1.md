@@ -1,5 +1,5 @@
 
-###Day 1:Introduction to FAB LAB
+### Day 1:Introduction to FAB LAB
 
 The course is conducted by the FabLab section of MESCE and was commenced on 2nd August 2017 Wednesday. The course is lead by Mr. Muhammed Jaseel, an ambitious man , who descriptively explained about the scopes of FabLab, CNC, and 3D Printing. By the end, simple assignments were given to the students.
 
