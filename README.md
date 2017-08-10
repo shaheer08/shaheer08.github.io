@@ -14,10 +14,10 @@ _Neil A. Gershenfeld (born 1959 or 1960) is an American professor at MIT and the
 
 ### What Do You mean By Code ?
 _Code, a rule for converting a piece of information into another form or representation_.
-
-## [Day 1](https://shaheer08.github.io/Day-1)
+### Course Progress
+[Day 1](https://shaheer08.github.io/Day-1)
 <br>
-## [Day 2](https://shaheer08.github.io/Day-2)
+[Day 2](https://shaheer08.github.io/Day-2)
 <br>
 ## [Day 3](https://shaheer08.github.io/Day-3)
 <br>
