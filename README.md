@@ -14,7 +14,7 @@ _Neil A. Gershenfeld (born 1959 or 1960) is an American professor at MIT and the
 
 ### What Do You mean By Code ?
 _Code, a rule for converting a piece of information into another form or representation_.
-##Course Progress
+## Course Progress
 ### [Day 1](https://shaheer08.github.io/Day-1)
 <br>
 ### [ Day 2](https://shaheer08.github.io/Day-2)
@@ -30,21 +30,15 @@ _Code, a rule for converting a piece of information into another form or represe
 ### Day 7
 <br>
 
-## CNC
+## CNC Machines
 _Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone_
 <br>
-*1.[Ultimaker](https://shaheer08.github.io/ultimaker)
+-1.[Ultimaker](https://shaheer08.github.io/ultimaker)
+-2.[Shopbot](https://shaheer08.github.io/ultimaker)
+-3.[Laser Printer](https://shaheer08.github.io/ultimaker)
+-4.[Vinyl Cutter](https://shaheer08.github.io/ultimaker)
 
-### Cura
-_Cura prepares your model for 3D printing. For novices, it makes it easy to get great results. For experts, there are over 200 settings to adjust to your needs. As it’s open source, our community helps enrich it even more._
-<br>
-<img src="Design.jpg" height="196" width="316">                                                               
-<br>
-## Nozzle
-_Nozzles are the last physical item in your printer to touch the filament before it becomes your 3D printed part, so it’s important to understand how they work if you want to take full advantage of the possibilities afforded by the different types_
-<br>
-<img src="nozzle.jpg" height="196" width="316">
-<br>
+
 ### About Me
 _I am An Engineering Student Doing B.Tech in Electronics And Communication Engineering_.
 ### Support or Contact
