@@ -16,10 +16,19 @@ _Neil A. Gershenfeld (born 1959 or 1960) is an American professor at MIT and the
 _Code, a rule for converting a piece of information into another form or representation_.
 
 ## [Day 1](https://shaheer08.github.io/Day-1)
+<br>
 ## [Day 2](https://shaheer08.github.io/Day-2)
+<br>
 ## [Day 3](https://shaheer08.github.io/Day-3)
-
-
+<br>
+## Day 4
+<br>
+## Day 5
+<br>
+## Day 6
+<br>
+## Day 7
+<br>
 
 ### CNC
 _Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone_
