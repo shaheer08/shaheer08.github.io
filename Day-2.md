@@ -4,11 +4,11 @@ The second day of the course was about getting along with GitHub and detailed pa
 
 Daily Assignments No: 02
 <br>
-_1.Develope a desccriptive page in GitHub_
+1.Develope a desccriptive page in GitHub
 <br>
-_2.Upload the daily progress on the class_
+2.Upload the daily progress on the class
 <br>
-_3.Install Cura Software_
+3.Install Cura Software
 <br>
-_4.Install any of the mentioned creative designing softwares: Autodesk AutoCAD/SketchUp/Rhinoceros/Catia/CorelDraw/Eagle/SolidWorks_
+4.Install any of the mentioned creative designing softwares: Autodesk AutoCAD/SketchUp/Rhinoceros/Catia/CorelDraw/Eagle/SolidWorks
 <br>
