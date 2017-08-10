@@ -6,4 +6,5 @@ On the third day, we had a session about basic 3D design, and we were used "Rhin
 Daily Assignment No: 03
 <br>
 _01.Design a 3D model using Rhinoceros 3D and print_
-_02.Update Github Page
+<br>
+_02.Update Github Page_
