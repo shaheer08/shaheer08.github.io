@@ -1,7 +1,8 @@
 ## Day 2: Getting into GitHub and Introduction to 3D Printing
 
 The second day of the course was about getting along with GitHub and detailed page developement process. After the session, the class was split into two groups, after which we learnt in detail about 3D Printing. Both the mechanical and designing sides of 3D Printing was explained in detail by the supporting staff.
-<br>
+
+
 Daily Assignments No: 02
 
 <br>
