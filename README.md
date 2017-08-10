@@ -32,10 +32,9 @@ _Code, a rule for converting a piece of information into another form or represe
 
 ## CNC
 _Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone_
-### Ultimaker
-_Ultimaker is a 3D printer manufacturer. Their product line includes the Ultimaker 3 family, Ultimaker 2 family and the Ultimaker Original. The company started out as an open-source printer company.3D printing, also known as additive manufacturing (AM), refers to processes used to create a three-dimensional object in which layers of material are formed under computer control to create an object.Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source such as an Additive Manufacturing File (AMF) file_
-<img src="Ultimaker.jpg" height="316" width="196">
 <br>
+*1.[Ultimaker](https://shaheer08.github.io/ultimaker)
+
 ### Cura
 _Cura prepares your model for 3D printing. For novices, it makes it easy to get great results. For experts, there are over 200 settings to adjust to your needs. As it’s open source, our community helps enrich it even more._
 <br>
