@@ -33,10 +33,10 @@ _Code, a rule for converting a piece of information into another form or represe
 ## CNC Machines
 _Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone_
 <br>
--1.[Ultimaker](https://shaheer08.github.io/ultimaker)
--2.[Shopbot](https://shaheer08.github.io/ultimaker)
--3.[Laser Printer](https://shaheer08.github.io/ultimaker)
--4.[Vinyl Cutter](https://shaheer08.github.io/ultimaker)
+-[Ultimaker](https://shaheer08.github.io/ultimaker)
+-[Shopbot](https://shaheer08.github.io/ultimaker)
+-[Laser Printer](https://shaheer08.github.io/ultimaker)
+-[Vinyl Cutter](https://shaheer08.github.io/ultimaker)
 
 
 ### About Me
