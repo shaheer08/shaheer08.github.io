@@ -59,9 +59,9 @@
   
 - #### Download Files
 
-  - [For STL](https://github.com/shaheer08/case.stl)
+  - [For STL](https://shaheer08.github.io/case.stl)
   
-  - [For 3dm](https://github.com/shaheer08/case.3dm)
+  - [For 3dm](https://shaheer08.github.io/case.3dm)
   
   
   
