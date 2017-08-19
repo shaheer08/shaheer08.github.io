@@ -2,7 +2,7 @@
 
 I designed a particular shape using a cube and a Cylinder, Here I used Rhinoceros 3D designing software.
 
-**Steps**
+- **Steps**
 
   - Open Rhinoceros 3D
   - Select File new choose small files in mm
