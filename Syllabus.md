@@ -6,6 +6,7 @@ Batch A
 <br>
 Day 1 : Introduction to Fablab 
 <br>
+
 Day 2 : Github Pages and Documentation
     <br>                           
 Day 3: Electronics Production and CNC
@@ -29,10 +30,13 @@ Batch B
 <br>
 Day 1 : Introduction to Fablab 
 <br>
+
 Day 2 : Github Pages and Documentation
 <br>
+
 Day 3 : 3D Printing
-<br>                            
+<br>  
+
 Day 5 : Laser Cutting,Moulding and Casting
 <br>                   
 Day 6 : Electronics Production and CNC
