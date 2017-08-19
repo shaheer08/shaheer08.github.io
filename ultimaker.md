@@ -15,8 +15,11 @@ When you select a print material, it is important to consider the characteristic
 - Processing ability
 [For more about material selection,Click here](https://ultimaker.com/en/resources/50296-which-material-should-i-use)
 #### Cura
+
+
 Cura prepares your model for 3D printing. For novices, it makes it easy to get great results. For experts, there are over 200 settings to adjust to your needs. As it’s open source, our community helps enrich it even more.[Starting Cura first time, Click here to know more](https://ultimaker.com/en/resources/20407-first-use-cura-2)
 <br>
+- File opened in Cura
 <img src="Design.jpg" height="196" width="316">                                                               
 <br>
 #### Nozzle
@@ -28,5 +31,6 @@ Nozzles are the last physical item in your printer to touch the filament before 
 - 0.8 mm 
 
 <br>
+- Nozzle Pack
 <img src="nozzle.jpg" height="196" width="316">
 <br>
