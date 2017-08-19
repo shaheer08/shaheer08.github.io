@@ -1,6 +1,18 @@
 - ### Octopus Mobile Stand
    It was looking good and i got a sample model of octopus mobile stand from thingiverse.com and I printed using ultimaker.       
+- Steps
+  
+   - STL file open in Cura 
+  
+   - And Check generate Support
+  
+   - Choose Nozzle 0.6 mm and Fill about 50 %
    
+   - Make sure lay Flat option is applied 
+   
+   - minimise time consumption as much as possible
+  
+  
    - File Opened in Cura
    <img src="octocura.png" height="400" width="711">
    
