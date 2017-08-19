@@ -35,6 +35,8 @@ _Code, a rule for converting a piece of information into another form or represe
 
 - [Hanging Bag Case and Holder for Charging Cell Phone](https://shaheer08.github.io/case)
 
+- [Dice-Rough Work](https://shaheer08.github.io/dice)
+
 ### Day 4
 
 ### Day 5
