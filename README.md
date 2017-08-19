@@ -41,12 +41,29 @@ _Code, a rule for converting a piece of information into another form or represe
 
 ### Day 4
 
+- [Laser Cutting](https://shaheer08.github.io/Day-4)
+
+- [Key Chain](https://shaheer08.github.io/keychain)
+
+- [Engraving](https://shaheer08.github.io/engraving)
+
 ### Day 5
+
+- [Electronics Production](https://shaheer08.github.io/Day-5)
 
 ### Day 6
 
+- [Vinyl Cutting](https://shaheer08.github.io/Day-6)
+
+- [Logo Making](https://shaheer08.github.io/logo)
+
+- [Text Cutting](https://shaheer08.github.io/textcutting)
+
 ### Day 7
-<br>
+
+- [Project](https://shaheer08.github.io/Day-7)
+
+
 
 ## CNC Machines
 _Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone_
