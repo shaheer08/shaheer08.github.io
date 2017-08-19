@@ -32,10 +32,10 @@ Day 2 : Github Pages and Documentation
 
 Day 3 : 3D Printing
                                 
-Day 5 : Laser Cutting,Moulding and Casting
+Day 4 : Laser Cutting,Moulding and Casting
                                
-Day 6 : Electronics Production and CNC
+Day 5 : Electronics Production and CNC
                                 
-Day 7 : Vinyl Cutting & Screen Printing
-                                                                                                    
-Project
+Day 6 : Vinyl Cutting & Screen Printing
+
+Day 7 : Project     
