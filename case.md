@@ -21,6 +21,44 @@
   
   <img src="case2.png" height="400" width="711">
   
-  - Various Design Steps-1
+  - Various Design Steps-3
   
   <img src="case3.png" height="400" width="711">
+  
+  - Model at Different Angles-1
+  
+  <img src="qcase3.png" height="400" width="711">
+  
+  - Model at Different Angles-2
+  
+  <img src="qcase4.png" height="400" width="711">
+  
+  - Model at Different Angles-3
+  
+  <img src="qcase5.png" height="400" width="711">
+  
+  - Model at Different Angles-4
+  
+  <img src="qcase6.png" height="400" width="711">
+  
+  - Model at Different Angles-5
+  
+  <img src="qcase7.png" height="400" width="711">
+  
+  - Model at Different Angles-6
+  
+  <img src="qcase8.png" height="400" width="711">
+  
+  - File opened in Cura-1
+  
+  <img src="casecura1.png" height="400" width="711">
+  
+  - File opened in Cura-2
+  
+  <img src="casecura.png" height="400" width="711">
+  
+  
+  
+  
+  
+  
