@@ -18,19 +18,19 @@ When you select a print material, it is important to consider the characteristic
 
 
 Cura prepares your model for 3D printing. For novices, it makes it easy to get great results. For experts, there are over 200 settings to adjust to your needs. As it’s open source, our community helps enrich it even more.[Starting Cura first time, Click here to know more](https://ultimaker.com/en/resources/20407-first-use-cura-2)
-<br>
+
 - File opened in Cura
+
 <img src="Design.jpg" height="196" width="316">                                                               
-<br>
+
 #### Nozzle
 Nozzles are the last physical item in your printer to touch the filament before it becomes your 3D printed part, so it’s important to understand how they work if you want to take full advantage of the possibilities afforded by the different types.
-<br>
 - 0.25 mm
 - 0.4 mm
 - 0.6 mm
 - 0.8 mm 
 
-<br>
 - Nozzle Pack
+
 <img src="nozzle.jpg" height="196" width="316">
-<br>
+
