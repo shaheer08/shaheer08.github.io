@@ -57,6 +57,11 @@
   
   <img src="casecura.png" height="400" width="711">
   
+- #### Download Files
+
+  - [For STL](https://github.com/shaheer08/case.stl)
+  
+  - [For 3dm](https://github.com/shaheer08/case.3dm)
   
   
   
