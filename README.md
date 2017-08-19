@@ -20,20 +20,27 @@ _Code, a rule for converting a piece of information into another form or represe
 ## Course Progress
 #### [Syllabus](https://shaheer08.github.io/Syllabus)
 ### Day 1
+
 - [Indroduction To Fablab](https://shaheer08.github.io/Day-1)
-<br>
+
 ### Day 2
+
 - [Github Pages and Documentation](https://shaheer08.github.io/Day-2)
-<br>
+
 ### Day 3
+
 - [3D Printing](https://shaheer08.github.io/Day-3)
-<br>
+
+- [First 3D Model](https://shaheer08.github.io/first)
+
+- [Hanging Bag Case and Holder for Charging Cell Phone](https://shaheer08.github.io/case)
+
 ### Day 4
-<br>
+
 ### Day 5
-<br>
+
 ### Day 6
-<br>
+
 ### Day 7
 <br>
 
