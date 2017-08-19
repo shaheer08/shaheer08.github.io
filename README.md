@@ -37,6 +37,8 @@ _Code, a rule for converting a piece of information into another form or represe
 
 - [Dice-Rough Work](https://shaheer08.github.io/dice)
 
+- [Octopus Mobile Stand](https://shaheer08.github.io/octo)
+
 ### Day 4
 
 ### Day 5
