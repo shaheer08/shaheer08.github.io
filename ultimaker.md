@@ -31,7 +31,7 @@ Nozzles are the last physical item in your printer to touch the filament before 
   - 0.6 mm 
   - 0.8 mm 
 
-  - Nozzle Pack
+- Nozzle Pack
 
-<img src="nozzle.jpg" height="196" width="316">
+    <img src="nozzle.jpg" height="196" width="316">
 
