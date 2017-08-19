@@ -16,7 +16,7 @@ _Neil A. Gershenfeld (born 1959 or 1960) is an American professor at MIT and the
 ### What Do You mean By Code ?
 _Code, a rule for converting a piece of information into another form or representation_.
 ## Course Progress
-#### Syllabus
+#### [Syllabus](https://shaheer08.github.io/Syllabus)
 ### Day 1
 - [Indroduction To Fablab](https://shaheer08.github.io/Day-1)
 <br>
