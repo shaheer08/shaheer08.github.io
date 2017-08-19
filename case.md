@@ -2,8 +2,8 @@
   - It provides a perfect place for your cellphone or power bank when you charge it
   - Prevents children from touching your cellphone 
   - Keeps mobile phones protected (off floor) in soft, rubber-like case
-- Dimensions
-   I am using Moto G4 so I decided to make a hanging case for my phone, then for design took measurements of my phone and charger
+- #### Idea and Dimension
+   I am using Moto G4, so I decided to make a hanging case for my phone, then for design i took measurements of my phone and charger
    153 x 76.6 x 9.8 mm, Then i stated with Rhino and completed my design.
    
    - Steps
