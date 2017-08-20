@@ -61,7 +61,7 @@ _Code, a rule for converting a piece of information into another form or represe
 
 ### Day 7
 
-- [Project](https://shaheer08.github.io/Day-7)
+- [Screen Printing](https://shaheer08.github.io/Day-7)
 
 
 
