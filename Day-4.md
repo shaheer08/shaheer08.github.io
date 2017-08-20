@@ -1,6 +1,6 @@
 ### Laser Cutting
  
-- Laser Cutter are used for two functions
+- Laser Cutter can used for two functions
 
   - Cutting
   
