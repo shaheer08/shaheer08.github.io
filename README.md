@@ -43,9 +43,9 @@ _Code, a rule for converting a piece of information into another form or represe
 
 - [Laser Cutting](https://shaheer08.github.io/Day-4)
 
-- [Key Chain](https://shaheer08.github.io/keychain)
+- [DEsign a Key Chain](https://shaheer08.github.io/keychain)
 
-- [Engraving](https://shaheer08.github.io/engraving)
+- [Engraving ](https://shaheer08.github.io/engraving)
 
 ### Day 5
 
@@ -55,7 +55,7 @@ _Code, a rule for converting a piece of information into another form or represe
 
 - [Vinyl Cutting](https://shaheer08.github.io/Day-6)
 
-- [Logo Making](https://shaheer08.github.io/logo)
+- [Sticker Making](https://shaheer08.github.io/sticker)
 
 - [Text Cutting](https://shaheer08.github.io/textcutting)
 
