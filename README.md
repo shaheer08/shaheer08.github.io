@@ -43,7 +43,7 @@ _Code, a rule for converting a piece of information into another form or represe
 
 - [Laser Cutting](https://shaheer08.github.io/Day-4)
 
-- [Design a Key Chain](https://shaheer08.github.io/Keychain)
+- [Keychain Design](https://shaheer08.github.io/Keychain)
 
 - [Engraving ](https://shaheer08.github.io/engraving)
 
