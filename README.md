@@ -49,15 +49,15 @@ _Code, a rule for converting a piece of information into another form or represe
 
 ### Day 5
 
-- [Electronics Production](https://shaheer08.github.io/Day-5)
-
-### Day 6
-
 - [Vinyl Cutting](https://shaheer08.github.io/Day-6)
 
 - [Sticker Making](https://shaheer08.github.io/sticker)
 
 - [Text Cutting](https://shaheer08.github.io/textcutting)
+
+### Day 6
+
+- [Electronics Production](https://shaheer08.github.io/Day-5)
 
 ### Day 7
 
