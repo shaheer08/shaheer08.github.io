@@ -15,3 +15,22 @@ I designed a particular shape using a cube and a Cylinder, Here I used Rhinocero
 
    - <img src="First Design.png" height="400" width="711">
    
+   
+- Commands Used Here
+ 
+   - COMMAND : ExtrudeCrv
+
+     The required Height Can give
+     
+   - COMMAND :Cap
+   
+    to create a solid object  use after ExtrudeCrv
+    
+   - COMMAND : **BooleanDifference
+  
+   to subract one from another we use this command
+
+
+
+
+   
