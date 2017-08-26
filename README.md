@@ -57,11 +57,17 @@ _Code, a rule for converting a piece of information into another form or represe
 
 ### Day 6
 
+- [Indroduction to Eagle](https://shaheer08.github.io/Day-5)
+
 - [Electronics Production](https://shaheer08.github.io/Day-5)
+
+- [PCB Milling(Shopbot)](https://shaheer08.github.io/Day-5)
 
 ### Day 7
 
 - [Screen Printing](https://shaheer08.github.io/Day-7)
+
+- [Casting & Molding](https://shaheer08.github.io/Day-7)
 
 
 
