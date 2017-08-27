@@ -57,17 +57,17 @@ _Code, a rule for converting a piece of information into another form or represe
 
 ### Day 6
 
-- [Indroduction to Eagle](https://shaheer08.github.io/Day-5)
+- [Indroduction to Eagle](https://shaheer08.github.io/eagle)
 
 - [Electronics Production](https://shaheer08.github.io/Day-5)
 
-- [PCB Milling(Shopbot)](https://shaheer08.github.io/Day-5)
+- [PCB Milling(Shopbot)](https://shaheer08.github.io/mil)
 
 ### Day 7
 
 - [Screen Printing](https://shaheer08.github.io/Day-7)
 
-- [Casting & Molding](https://shaheer08.github.io/Day-7)
+- [Casting & Moulding](https://shaheer08.github.io/cast)
 
 
 
@@ -82,7 +82,7 @@ _Computer numerical control (CNC) is the automation of machine tools by means of
 
 ### About Me
 _I am An Engineering Student Doing B.Tech in Electronics And Communication Engineering_.
-## FOLLOW ME
+### Follow Me
 [![Facebook](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/facebook-64.png)](https://m.facebook.com/shaheerkbd?refid=46&tsid&fref=search)  [![Instagram](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/instagram-64.png)](https://www.instagram.com/its_me_shaheer_)  [![Twitter](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/twitter-64.png)](https://twitter.com/itsme_shaheer)    [![GitHub](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/github-64.png)](https://shaheer08.github.io)   [![Blogger](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/blogger-64.png)](https://joyofread.blogspot.com)  [![GooglePlus](https://cdn4.iconfinder.com/data/icons/miu-gloss-social/60/google-64.png)](https://plus.google.com/u/0/118147113046590441382)
 
 
