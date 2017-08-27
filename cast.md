@@ -1,4 +1,6 @@
-## Molding and Casting
+## Moulding and Casting
+
+Casting is a manufacturing process in which a molten material is introduced  into a solid mold and allowed to solidify. The solid material takes the shape of the mold. The term usually refers to metals but can also apply to the same process for other materials. Ceramics can be "slip cast" and polymers can also be cast. Molding refers to shaping a material that is soft but not fully liquid. (Think wet clay, for instance) Molding as a process might also use a mold to shape the soft material, but doesn't necessarily require one.
 
 - Steps
 
