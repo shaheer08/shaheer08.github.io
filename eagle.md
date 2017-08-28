@@ -5,6 +5,10 @@ EAGLE contains a schematic editor, for designing circuit diagrams. Parts can be 
 The PCB layout editor allows back annotation to the schematic and auto-routing to automatically connect traces based on the connections defined in the schematic.
 EAGLE saves Gerber and PostScript layout files and Excellon and Sieb & Meyer drill files. These standard files are accepted by many PCB fabrication companies
 
+- Design Circuit using Eagle
+
+ <img src="crkt.png" height="400" width="712">
+ 
 ### Eagle Commands
 
 - Change Mode/File Commands
