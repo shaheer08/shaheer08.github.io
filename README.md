@@ -67,7 +67,11 @@ _Code, a rule for converting a piece of information into another form or represe
 
 - [Screen Printing](https://shaheer08.github.io/Day-7)
 
+- [T-Shirt Printing](https://shaheer08.github.io/T)
+
 - [Casting & Moulding](https://shaheer08.github.io/cast)
+
+- [Ring Shape Mould](https://shaheer08.github.io/ring)
 
 
 
