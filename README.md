@@ -3,7 +3,7 @@
 
 - [Fab Lab Workshop](https://shaheer08.github.io/test23)
 
-- [FantaCode Internship](https://shaheer08.github.io/day-1)
+- [FantaCode Internship](https://shaheer08.github.io/internship)
 
 
 ### About Me
